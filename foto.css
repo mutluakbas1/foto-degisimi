@@ -1,0 +1,21 @@
+img {
+    height: 500px;
+    width: 500px;
+    margin-left: 40%;
+    
+
+
+}
+h1 {
+    display: inline-block;
+   
+    color: mediumseagreen ;
+    margin-left: 43%;
+
+
+    font-family: sans-serif;
+}
+.button {
+    margin-left: 55%;
+
+}
